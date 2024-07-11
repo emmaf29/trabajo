@@ -1,0 +1,7 @@
+CPU
+CPU
+CPU
+IO
+CPU
+CPU
+EXIT
